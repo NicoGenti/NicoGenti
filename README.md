@@ -10,17 +10,9 @@
 - 📚 Currently studying software and solution architecture and computer science fundamentals.
 - 🎮 Off the keyboard: anime and manga, gaming, F1, MotoGP and, of course, Juventus ⚪⚫
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicogenti&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="nicogenti's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=nicogenti&theme=nightowl&hide_border=true&cache_seconds=86400" alt="nicogenti's GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicogenti&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nicogenti&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Gentilucci Nicolas's GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=nicogenti&theme=nightowl&hide_border=true&cache_seconds=86400" alt="nicogenti's GitHub Streak" width="100%" />
 </p>
 <p align="center">
   <img height="280" src="https://github-readme-activity-graph.vercel.app/graph?username=nicogenti&theme=nightowl&radius=10" alt="nicogenti's Activity Graph" />
@@ -45,7 +37,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" />
+  <img src="assets/icons/nextjs.svg" alt="Next.js" width="96" height="48" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" />
 </p>
 
@@ -54,13 +46,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" />
+  <img src="assets/icons/express.svg" alt="Express.js" width="112" height="48" />
 </p>
 
 > ## Database
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_sql-server/microsoft_sql-server-icon.svg" alt="T-SQL / SQL Server" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="T-SQL / SQL Server" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />
 </p>
 
